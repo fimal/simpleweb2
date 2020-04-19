@@ -1,0 +1,1 @@
+This is a simple example of web service with redis db.
